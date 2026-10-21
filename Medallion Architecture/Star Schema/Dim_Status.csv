@@ -1,0 +1,552 @@
+Funding_Stage,Investor_Tier,Acquisition_Status,AI_Adoption_Level,Status_ID
+Seed,Tier 3 (Angel/Seed),Independent,High,1
+Pre-IPO,Tier 3 (Angel/Seed),Closed,,2
+Series A,Tier 2 (Mid-size VC),Independent,High,3
+Series B,Tier 3 (Angel/Seed),Independent,Medium,4
+Series C+,Tier 2 (Mid-size VC),Closed,Medium,5
+Series A,Tier 3 (Angel/Seed),Independent,Low,6
+Series A,Corporate VC (e.g. Google Ventures),Independent,Medium,7
+Seed,Tier 3 (Angel/Seed),Acquired,Medium,8
+Series C+,Tier 2 (Mid-size VC),Independent,Medium,9
+Series B,Tier 3 (Angel/Seed),Independent,Low,10
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Independent,High,11
+Series A,Corporate VC (e.g. Google Ventures),Acquired,,12
+Seed,Tier 2 (Mid-size VC),Independent,Medium,13
+Seed,Tier 3 (Angel/Seed),Independent,Low,14
+Seed,Tier 2 (Mid-size VC),Acquired,Medium,15
+Series A,Tier 3 (Angel/Seed),IPO,Medium,16
+Series B,Tier 2 (Mid-size VC),Independent,High,17
+Series C+,Tier 2 (Mid-size VC),Independent,High,18
+Series A,Tier 3 (Angel/Seed),Acquired,Medium,19
+Seed,Tier 2 (Mid-size VC),Independent,High,20
+Series A,Tier 3 (Angel/Seed),Independent,High,21
+Pre-IPO,Corporate VC (e.g. Google Ventures),Independent,High,22
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Independent,Low,23
+Series C+,Corporate VC (e.g. Google Ventures),Independent,Medium,24
+Series A,Tier 2 (Mid-size VC),Independent,Low,25
+Pre-IPO,Tier 2 (Mid-size VC),Independent,Low,26
+Series C+,Tier 3 (Angel/Seed),Independent,Medium,27
+Series B,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Medium,28
+Seed,Tier 3 (Angel/Seed),Acquired (Fire Sale),Low,29
+Series B,Bootstrapped,Independent,High,30
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Independent,High,31
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Closed,High,32
+Pre-IPO,Bootstrapped,Independent,High,33
+Seed,Tier 3 (Angel/Seed),Acquired,High,34
+Series A,Tier 3 (Angel/Seed),Closed,,35
+Pre-IPO,Tier 3 (Angel/Seed),Acquired,Low,36
+Post-IPO,Tier 3 (Angel/Seed),Independent,Low,37
+Series C+,Tier 2 (Mid-size VC),Independent,Low,38
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Independent,Low,39
+Seed,Tier 2 (Mid-size VC),Closed,Medium,40
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,Medium,41
+Seed,Tier 3 (Angel/Seed),Independent,,42
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Closed,Medium,43
+Series A,Corporate VC (e.g. Google Ventures),Independent,High,44
+Series C+,Tier 3 (Angel/Seed),Independent,Low,45
+Post-IPO,Tier 3 (Angel/Seed),Closed,Medium,46
+Seed,Tier 3 (Angel/Seed),Closed,High,47
+Series A,Tier 2 (Mid-size VC),Independent,,48
+Series A,Bootstrapped,Closed,Low,49
+Post-IPO,Tier 2 (Mid-size VC),Independent,High,50
+Series C+,Corporate VC (e.g. Google Ventures),Closed,High,51
+Series A,Tier 3 (Angel/Seed),Independent,Medium,52
+Seed,Bootstrapped,Independent,Medium,53
+Seed,Tier 2 (Mid-size VC),Acquired,High,54
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Closed,Medium,55
+Seed,Tier 3 (Angel/Seed),Acquired,Low,56
+Post-IPO,Tier 3 (Angel/Seed),Independent,High,57
+Seed,Tier 3 (Angel/Seed),Independent,Medium,58
+Series A,Bootstrapped,Closed,High,59
+Seed,Tier 3 (Angel/Seed),Closed,,60
+Seed,Corporate VC (e.g. Google Ventures),Independent,High,61
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Closed,Low,62
+Pre-IPO,Tier 3 (Angel/Seed),Closed,Medium,63
+Series A,Tier 3 (Angel/Seed),Acquired,Low,64
+Series A,Bootstrapped,Independent,Medium,65
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,Medium,66
+Pre-IPO,Tier 2 (Mid-size VC),Closed,Low,67
+Series B,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),High,68
+Seed,Corporate VC (e.g. Google Ventures),Independent,,69
+Series B,Tier 2 (Mid-size VC),Independent,Medium,70
+Pre-IPO,Tier 3 (Angel/Seed),Independent,High,71
+Series B,Corporate VC (e.g. Google Ventures),Closed,Medium,72
+Series C+,Tier 3 (Angel/Seed),Closed,Medium,73
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Independent,Medium,74
+Series B,Tier 3 (Angel/Seed),Independent,,75
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired,High,76
+Series A,Tier 2 (Mid-size VC),Acquired (Fire Sale),Medium,77
+Series B,Tier 3 (Angel/Seed),Closed,High,78
+Series B,Tier 3 (Angel/Seed),Closed,Medium,79
+Series B,Tier 3 (Angel/Seed),Acquired,High,80
+Series A,Corporate VC (e.g. Google Ventures),Independent,,81
+Series A,Tier 3 (Angel/Seed),Independent,,82
+Seed,Tier 2 (Mid-size VC),IPO,,83
+Series A,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Medium,84
+Seed,Tier 2 (Mid-size VC),Independent,,85
+Series B,Corporate VC (e.g. Google Ventures),Independent,High,86
+Series B,Tier 3 (Angel/Seed),Independent,High,87
+Seed,Tier 2 (Mid-size VC),Acquired (Fire Sale),Medium,88
+Seed,Corporate VC (e.g. Google Ventures),Closed,Medium,89
+Series C+,Tier 3 (Angel/Seed),Independent,,90
+Series B,Tier 3 (Angel/Seed),Acquired,,91
+Pre-IPO,Tier 3 (Angel/Seed),Independent,Medium,92
+Series B,Tier 2 (Mid-size VC),Independent,Low,93
+Series A,Tier 3 (Angel/Seed),Closed,Medium,94
+Series A,Tier 3 (Angel/Seed),Acquired,High,95
+Series C+,Tier 3 (Angel/Seed),Independent,High,96
+Seed,Tier 2 (Mid-size VC),Independent,Low,97
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Independent,High,98
+Series A,Tier 3 (Angel/Seed),Closed,Low,99
+Seed,Corporate VC (e.g. Google Ventures),Acquired,High,100
+Seed,Tier 3 (Angel/Seed),IPO,High,101
+Series A,Tier 2 (Mid-size VC),Closed,Low,102
+Series B,Tier 2 (Mid-size VC),Closed,,103
+Series A,Tier 2 (Mid-size VC),Acquired (Fire Sale),High,104
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Independent,Medium,105
+Seed,Corporate VC (e.g. Google Ventures),Independent,Low,106
+Series B,Corporate VC (e.g. Google Ventures),Independent,Low,107
+Series B,Corporate VC (e.g. Google Ventures),Acquired,Low,108
+Seed,"Tier 1 (e.g. Sequoia, a16z)",IPO,Low,109
+Series A,Corporate VC (e.g. Google Ventures),Closed,Medium,110
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Independent,Low,111
+Series C+,Bootstrapped,Independent,,112
+Series B,Tier 2 (Mid-size VC),Independent,,113
+Seed,"Tier 1 (e.g. Sequoia, a16z)",IPO,Medium,114
+Series A,Tier 2 (Mid-size VC),Closed,High,115
+Seed,Tier 3 (Angel/Seed),Closed,Medium,116
+Series A,Tier 3 (Angel/Seed),Closed,High,117
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Medium,118
+Series A,Corporate VC (e.g. Google Ventures),Closed,High,119
+Pre-IPO,Tier 2 (Mid-size VC),Independent,,120
+Seed,Corporate VC (e.g. Google Ventures),Closed,High,121
+Series B,Bootstrapped,Closed,Medium,122
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Acquired,High,123
+Series A,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),High,124
+Seed,Tier 2 (Mid-size VC),Acquired (Fire Sale),High,125
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Independent,High,126
+Post-IPO,Tier 2 (Mid-size VC),Acquired,High,127
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Medium,128
+Series A,Corporate VC (e.g. Google Ventures),Independent,Low,129
+Pre-IPO,Tier 2 (Mid-size VC),Acquired,High,130
+Series B,Tier 2 (Mid-size VC),Acquired,High,131
+Series B,Tier 3 (Angel/Seed),Acquired,Low,132
+Series C+,Tier 2 (Mid-size VC),Acquired,Medium,133
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired,High,134
+Seed,Tier 3 (Angel/Seed),IPO,Low,135
+Seed,Bootstrapped,IPO,High,136
+Seed,Tier 2 (Mid-size VC),Acquired,,137
+Post-IPO,Tier 2 (Mid-size VC),Independent,Medium,138
+Series B,Corporate VC (e.g. Google Ventures),Closed,High,139
+Series B,Tier 3 (Angel/Seed),Acquired (Fire Sale),High,140
+Seed,Corporate VC (e.g. Google Ventures),Independent,Medium,141
+Series A,Tier 3 (Angel/Seed),Acquired (Fire Sale),Medium,142
+Seed,Tier 3 (Angel/Seed),Acquired (Fire Sale),High,143
+Series C+,Corporate VC (e.g. Google Ventures),Acquired,Low,144
+Series B,Tier 3 (Angel/Seed),Acquired (Fire Sale),Low,145
+Series C+,Tier 3 (Angel/Seed),Closed,Low,146
+Series A,Tier 2 (Mid-size VC),Independent,Medium,147
+Series C+,Tier 2 (Mid-size VC),Closed,High,148
+Seed,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),High,149
+Post-IPO,Bootstrapped,Independent,High,150
+Series B,Corporate VC (e.g. Google Ventures),Independent,Medium,151
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Closed,High,152
+Series B,Corporate VC (e.g. Google Ventures),IPO,Medium,153
+Seed,Bootstrapped,Independent,High,154
+Series C+,Bootstrapped,Closed,Low,155
+Series A,Tier 3 (Angel/Seed),Acquired (Fire Sale),High,156
+Seed,Tier 2 (Mid-size VC),Closed,Low,157
+Seed,Tier 3 (Angel/Seed),Acquired (Fire Sale),Medium,158
+Series B,Tier 2 (Mid-size VC),Closed,High,159
+Series C+,Tier 3 (Angel/Seed),Acquired,Medium,160
+Series B,Corporate VC (e.g. Google Ventures),Closed,Low,161
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Low,162
+Seed,Bootstrapped,Acquired,Medium,163
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,Low,164
+Seed,Tier 3 (Angel/Seed),Closed,Low,165
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Independent,Low,166
+Series B,Tier 2 (Mid-size VC),Acquired (Fire Sale),Low,167
+Pre-IPO,Tier 3 (Angel/Seed),Closed,High,168
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Independent,,169
+Seed,Tier 3 (Angel/Seed),IPO,,170
+Pre-IPO,Tier 2 (Mid-size VC),Closed,High,171
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired,,172
+Series A,Tier 2 (Mid-size VC),Acquired (Fire Sale),,173
+Seed,Corporate VC (e.g. Google Ventures),IPO,Low,174
+Series B,Tier 2 (Mid-size VC),Closed,Medium,175
+Series A,Tier 2 (Mid-size VC),IPO,Medium,176
+Seed,Corporate VC (e.g. Google Ventures),Closed,Low,177
+Series B,Tier 2 (Mid-size VC),Acquired (Fire Sale),Medium,178
+Seed,Bootstrapped,Independent,Low,179
+Series B,Tier 2 (Mid-size VC),Closed,Low,180
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Independent,,181
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Independent,,182
+Series C+,Corporate VC (e.g. Google Ventures),Independent,Low,183
+Series C+,Tier 2 (Mid-size VC),Independent,,184
+Series B,Tier 2 (Mid-size VC),Acquired,,185
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Independent,,186
+Seed,Corporate VC (e.g. Google Ventures),IPO,High,187
+Seed,Bootstrapped,Acquired (Fire Sale),,188
+Pre-IPO,Tier 2 (Mid-size VC),Acquired,,189
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Medium,190
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Low,191
+Series B,Tier 2 (Mid-size VC),Acquired,Medium,192
+Series A,Tier 2 (Mid-size VC),Closed,Medium,193
+Series B,Corporate VC (e.g. Google Ventures),Acquired,High,194
+Series B,Tier 3 (Angel/Seed),Acquired (Fire Sale),Medium,195
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Closed,High,196
+Series B,Tier 3 (Angel/Seed),IPO,High,197
+Series C+,Tier 3 (Angel/Seed),Closed,High,198
+Pre-IPO,Tier 2 (Mid-size VC),Independent,High,199
+Series A,Tier 2 (Mid-size VC),IPO,Low,200
+Seed,Corporate VC (e.g. Google Ventures),Closed,,201
+Series C+,Tier 3 (Angel/Seed),Closed,,202
+Pre-IPO,Corporate VC (e.g. Google Ventures),IPO,High,203
+Seed,Tier 2 (Mid-size VC),Acquired,Low,204
+Pre-IPO,Tier 3 (Angel/Seed),Independent,,205
+Seed,Bootstrapped,Closed,Medium,206
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Closed,,207
+Series A,Corporate VC (e.g. Google Ventures),Acquired,Medium,208
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,High,209
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Low,210
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,High,211
+Series B,Tier 2 (Mid-size VC),IPO,High,212
+Seed,Tier 2 (Mid-size VC),Acquired (Fire Sale),Low,213
+Pre-IPO,Corporate VC (e.g. Google Ventures),Independent,Low,214
+Series C+,Corporate VC (e.g. Google Ventures),Acquired,High,215
+Post-IPO,Tier 3 (Angel/Seed),Independent,Medium,216
+Series A,Bootstrapped,Independent,Low,217
+Pre-IPO,Bootstrapped,Independent,Low,218
+Series C+,Bootstrapped,Independent,High,219
+Seed,Corporate VC (e.g. Google Ventures),Acquired,,220
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Closed,Medium,221
+Post-IPO,Corporate VC (e.g. Google Ventures),Independent,Medium,222
+Series A,Tier 2 (Mid-size VC),Acquired,High,223
+Series A,Bootstrapped,Independent,High,224
+Post-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),High,225
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,,226
+Series B,Tier 2 (Mid-size VC),Acquired,Low,227
+Series C+,Tier 2 (Mid-size VC),Acquired,,228
+Seed,Tier 3 (Angel/Seed),Acquired,,229
+Seed,Corporate VC (e.g. Google Ventures),Acquired,Medium,230
+Post-IPO,Tier 2 (Mid-size VC),Closed,High,231
+Seed,Corporate VC (e.g. Google Ventures),IPO,,232
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired,Medium,233
+Post-IPO,Tier 2 (Mid-size VC),Closed,Medium,234
+Seed,Tier 2 (Mid-size VC),Closed,High,235
+Pre-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),Low,236
+Series C+,Tier 3 (Angel/Seed),Acquired (Fire Sale),Medium,237
+Series C+,Corporate VC (e.g. Google Ventures),Acquired,,238
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Independent,Medium,239
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Low,240
+Seed,Tier 2 (Mid-size VC),Closed,,241
+Pre-IPO,Corporate VC (e.g. Google Ventures),Independent,Medium,242
+Series A,Tier 2 (Mid-size VC),Acquired,Medium,243
+Post-IPO,Tier 3 (Angel/Seed),Closed,Low,244
+Seed,Bootstrapped,Closed,High,245
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Independent,Medium,246
+Series B,Bootstrapped,Independent,,247
+Seed,Bootstrapped,Acquired (Fire Sale),High,248
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,High,249
+Series B,Corporate VC (e.g. Google Ventures),Independent,,250
+Series C+,Tier 3 (Angel/Seed),Acquired,High,251
+Pre-IPO,Tier 2 (Mid-size VC),Closed,Medium,252
+Series C+,Bootstrapped,Independent,Low,253
+Series C+,Corporate VC (e.g. Google Ventures),Closed,Medium,254
+Seed,Tier 3 (Angel/Seed),Acquired (Fire Sale),,255
+Series A,Tier 2 (Mid-size VC),Acquired,Low,256
+Series B,Bootstrapped,Independent,Low,257
+Series A,Tier 2 (Mid-size VC),Closed,,258
+Series B,Corporate VC (e.g. Google Ventures),Acquired,Medium,259
+Post-IPO,Tier 3 (Angel/Seed),Acquired,Low,260
+Post-IPO,Tier 3 (Angel/Seed),Independent,,261
+Series A,Corporate VC (e.g. Google Ventures),Closed,Low,262
+Series B,Tier 2 (Mid-size VC),IPO,Low,263
+Series C+,Corporate VC (e.g. Google Ventures),Independent,High,264
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Closed,,265
+Seed,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Medium,266
+Pre-IPO,Bootstrapped,Closed,High,267
+Series C+,Bootstrapped,Independent,Medium,268
+Series A,Tier 2 (Mid-size VC),Acquired (Fire Sale),Low,269
+Series A,Tier 3 (Angel/Seed),IPO,High,270
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Closed,Low,271
+Series A,Tier 3 (Angel/Seed),IPO,Low,272
+Series A,Tier 3 (Angel/Seed),Acquired,,273
+Pre-IPO,Tier 2 (Mid-size VC),Independent,Medium,274
+Series B,"Tier 1 (e.g. Sequoia, a16z)",IPO,Medium,275
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired,High,276
+Series A,Tier 2 (Mid-size VC),IPO,High,277
+Post-IPO,Tier 2 (Mid-size VC),Closed,Low,278
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),High,279
+Post-IPO,Tier 3 (Angel/Seed),Closed,High,280
+Seed,Tier 2 (Mid-size VC),IPO,Low,281
+Series A,Bootstrapped,Acquired (Fire Sale),High,282
+Series B,Tier 3 (Angel/Seed),Acquired,Medium,283
+Series A,Corporate VC (e.g. Google Ventures),Closed,,284
+Series C+,Tier 3 (Angel/Seed),Acquired,,285
+Series A,Corporate VC (e.g. Google Ventures),Acquired,High,286
+Series B,Tier 2 (Mid-size VC),Acquired (Fire Sale),High,287
+Seed,Bootstrapped,Closed,Low,288
+Post-IPO,Corporate VC (e.g. Google Ventures),Independent,High,289
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Medium,290
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Closed,Low,291
+Seed,Tier 3 (Angel/Seed),IPO,Medium,292
+Series C+,Tier 3 (Angel/Seed),Acquired (Fire Sale),,293
+Series A,Tier 3 (Angel/Seed),Acquired (Fire Sale),Low,294
+Pre-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),Medium,295
+Series A,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),,296
+Post-IPO,Tier 3 (Angel/Seed),Closed,,297
+Series B,Tier 3 (Angel/Seed),Closed,Low,298
+Post-IPO,Tier 2 (Mid-size VC),Acquired,Low,299
+Series B,Bootstrapped,Closed,Low,300
+Series C+,Tier 2 (Mid-size VC),Closed,,301
+Post-IPO,Tier 2 (Mid-size VC),Closed,,302
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Closed,Low,303
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Closed,High,304
+Series B,"Tier 1 (e.g. Sequoia, a16z)",IPO,High,305
+Post-IPO,Bootstrapped,Independent,Low,306
+Seed,Tier 2 (Mid-size VC),Acquired (Fire Sale),,307
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired,,308
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",IPO,High,309
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),High,310
+Seed,Bootstrapped,IPO,Medium,311
+Pre-IPO,Tier 2 (Mid-size VC),IPO,,312
+Series C+,Tier 2 (Mid-size VC),Closed,Low,313
+Pre-IPO,Tier 2 (Mid-size VC),Acquired (Fire Sale),Medium,314
+Post-IPO,Tier 2 (Mid-size VC),Acquired (Fire Sale),Medium,315
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,Low,316
+Post-IPO,Tier 3 (Angel/Seed),Acquired,Medium,317
+Post-IPO,Tier 2 (Mid-size VC),Acquired,Medium,318
+Post-IPO,Tier 2 (Mid-size VC),IPO,Low,319
+Series A,Bootstrapped,Independent,,320
+Series C+,Tier 3 (Angel/Seed),IPO,High,321
+Series B,Tier 3 (Angel/Seed),IPO,Medium,322
+Series C+,Bootstrapped,Acquired,High,323
+Seed,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),,324
+Pre-IPO,Corporate VC (e.g. Google Ventures),Closed,Medium,325
+Series C+,Tier 2 (Mid-size VC),Acquired,High,326
+Series C+,Corporate VC (e.g. Google Ventures),IPO,High,327
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,,328
+Post-IPO,Corporate VC (e.g. Google Ventures),IPO,High,329
+Series C+,Bootstrapped,Acquired,Low,330
+Seed,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Low,331
+Series B,Bootstrapped,Closed,High,332
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,Low,333
+Series A,Bootstrapped,Closed,Medium,334
+Series B,Tier 2 (Mid-size VC),IPO,Medium,335
+Pre-IPO,Tier 2 (Mid-size VC),Acquired,Medium,336
+Series C+,Tier 2 (Mid-size VC),Acquired,Low,337
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Medium,338
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,High,339
+Seed,Tier 2 (Mid-size VC),IPO,High,340
+Series C+,Tier 2 (Mid-size VC),Acquired (Fire Sale),,341
+Post-IPO,Tier 2 (Mid-size VC),Independent,Low,342
+Series A,Bootstrapped,IPO,High,343
+Series C+,Corporate VC (e.g. Google Ventures),Acquired,Medium,344
+Series B,Tier 3 (Angel/Seed),Closed,,345
+Seed,"Tier 1 (e.g. Sequoia, a16z)",IPO,High,346
+Series B,Bootstrapped,Independent,Medium,347
+Series C+,Corporate VC (e.g. Google Ventures),Independent,,348
+Series C+,Tier 2 (Mid-size VC),Acquired (Fire Sale),Medium,349
+Series A,Corporate VC (e.g. Google Ventures),IPO,High,350
+Series B,Bootstrapped,Acquired,High,351
+Series C+,Tier 2 (Mid-size VC),Acquired (Fire Sale),High,352
+Pre-IPO,Tier 3 (Angel/Seed),Independent,Low,353
+Series A,Tier 3 (Angel/Seed),Acquired (Fire Sale),,354
+Pre-IPO,Tier 3 (Angel/Seed),IPO,Medium,355
+Series C+,Bootstrapped,Closed,High,356
+Seed,Bootstrapped,Acquired,High,357
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Low,358
+Series C+,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Low,359
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Medium,360
+Series C+,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Medium,361
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Medium,362
+Seed,Corporate VC (e.g. Google Ventures),Acquired,Low,363
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Low,364
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),High,365
+Post-IPO,Tier 2 (Mid-size VC),Independent,,366
+Post-IPO,Corporate VC (e.g. Google Ventures),Independent,Low,367
+Series B,Corporate VC (e.g. Google Ventures),Acquired,,368
+Series B,Bootstrapped,Closed,,369
+Seed,Bootstrapped,Acquired (Fire Sale),Medium,370
+Pre-IPO,Tier 2 (Mid-size VC),Acquired,Low,371
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Closed,Medium,372
+Post-IPO,Tier 3 (Angel/Seed),IPO,Medium,373
+Series C+,Bootstrapped,IPO,Low,374
+Post-IPO,Tier 3 (Angel/Seed),Acquired,High,375
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired,,376
+Series A,Tier 2 (Mid-size VC),Acquired,,377
+Seed,Bootstrapped,Independent,,378
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,High,379
+Series A,"Tier 1 (e.g. Sequoia, a16z)",IPO,High,380
+Pre-IPO,Corporate VC (e.g. Google Ventures),Closed,High,381
+Series C+,Tier 2 (Mid-size VC),IPO,Medium,382
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired,Low,383
+Pre-IPO,Tier 3 (Angel/Seed),Acquired,Medium,384
+Pre-IPO,Tier 3 (Angel/Seed),Closed,Low,385
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,High,386
+Series C+,Tier 2 (Mid-size VC),IPO,High,387
+Post-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),Medium,388
+Series A,Corporate VC (e.g. Google Ventures),IPO,,389
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),High,390
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Medium,391
+Pre-IPO,Tier 3 (Angel/Seed),Acquired,High,392
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Low,393
+Series B,Bootstrapped,IPO,Medium,394
+Seed,Bootstrapped,Closed,,395
+Series B,Tier 3 (Angel/Seed),IPO,Low,396
+Pre-IPO,Tier 2 (Mid-size VC),Closed,,397
+Series C+,Tier 3 (Angel/Seed),Acquired,Low,398
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",IPO,Medium,399
+Series B,Bootstrapped,Acquired (Fire Sale),,400
+Seed,Bootstrapped,Acquired,Low,401
+Post-IPO,Bootstrapped,Acquired (Fire Sale),Medium,402
+Pre-IPO,Bootstrapped,Acquired (Fire Sale),High,403
+Pre-IPO,Tier 3 (Angel/Seed),IPO,Low,404
+Series C+,Tier 3 (Angel/Seed),IPO,,405
+Series C+,Tier 2 (Mid-size VC),Acquired (Fire Sale),Low,406
+Series C+,Bootstrapped,Acquired,Medium,407
+Seed,Tier 2 (Mid-size VC),IPO,Medium,408
+Pre-IPO,Corporate VC (e.g. Google Ventures),IPO,Low,409
+Seed,Bootstrapped,IPO,Low,410
+Series A,Corporate VC (e.g. Google Ventures),Acquired,Low,411
+Series C+,Corporate VC (e.g. Google Ventures),Closed,Low,412
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Medium,413
+Post-IPO,Tier 2 (Mid-size VC),IPO,High,414
+Series B,Bootstrapped,Acquired,Medium,415
+Pre-IPO,Corporate VC (e.g. Google Ventures),Independent,,416
+Series A,Bootstrapped,Acquired (Fire Sale),Medium,417
+Series A,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Low,418
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),,419
+Series C+,Bootstrapped,IPO,High,420
+Series B,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Low,421
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Independent,,422
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Closed,,423
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Medium,424
+Series C+,Corporate VC (e.g. Google Ventures),IPO,Low,425
+Pre-IPO,Tier 2 (Mid-size VC),Acquired (Fire Sale),,426
+Series B,Corporate VC (e.g. Google Ventures),Closed,,427
+Series A,Tier 3 (Angel/Seed),IPO,,428
+Series C+,Bootstrapped,Closed,Medium,429
+Pre-IPO,Corporate VC (e.g. Google Ventures),Closed,,430
+Series A,Corporate VC (e.g. Google Ventures),IPO,Medium,431
+Seed,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),,432
+Seed,Bootstrapped,Acquired,,433
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",Acquired,,434
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),,435
+Pre-IPO,Corporate VC (e.g. Google Ventures),IPO,Medium,436
+Post-IPO,Corporate VC (e.g. Google Ventures),Independent,,437
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Medium,438
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired,,439
+Series C+,Tier 3 (Angel/Seed),Acquired (Fire Sale),High,440
+Series B,Bootstrapped,Acquired (Fire Sale),Medium,441
+Series C+,Corporate VC (e.g. Google Ventures),Closed,,442
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired,High,443
+Series C+,Bootstrapped,Acquired (Fire Sale),Medium,444
+Series B,Tier 3 (Angel/Seed),Acquired (Fire Sale),,445
+Series A,Bootstrapped,Acquired,High,446
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Low,447
+Pre-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),High,448
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",IPO,Medium,449
+Series C+,Corporate VC (e.g. Google Ventures),IPO,,450
+Pre-IPO,Tier 3 (Angel/Seed),IPO,High,451
+Pre-IPO,Bootstrapped,Acquired,Medium,452
+Series A,Bootstrapped,Acquired (Fire Sale),Low,453
+Pre-IPO,Bootstrapped,Independent,,454
+Post-IPO,Tier 2 (Mid-size VC),Acquired (Fire Sale),High,455
+Post-IPO,Corporate VC (e.g. Google Ventures),Closed,Low,456
+Pre-IPO,Bootstrapped,IPO,High,457
+Pre-IPO,Bootstrapped,Closed,Low,458
+Post-IPO,Bootstrapped,Independent,Medium,459
+Series B,Tier 3 (Angel/Seed),IPO,,460
+Series B,Corporate VC (e.g. Google Ventures),IPO,Low,461
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",IPO,Low,462
+Pre-IPO,Bootstrapped,Independent,Medium,463
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),High,464
+Series A,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),Low,465
+Series A,Bootstrapped,Acquired,Low,466
+Series B,Corporate VC (e.g. Google Ventures),IPO,High,467
+Pre-IPO,Tier 2 (Mid-size VC),IPO,Low,468
+Pre-IPO,Bootstrapped,Acquired (Fire Sale),Medium,469
+Pre-IPO,Bootstrapped,Closed,Medium,470
+Series B,Tier 2 (Mid-size VC),IPO,,471
+Series B,Bootstrapped,Acquired,Low,472
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired (Fire Sale),High,473
+Series C+,Tier 2 (Mid-size VC),IPO,,474
+Series A,Bootstrapped,Acquired,Medium,475
+Series A,"Tier 1 (e.g. Sequoia, a16z)",IPO,Low,476
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired,High,477
+Post-IPO,Bootstrapped,Closed,High,478
+Post-IPO,Corporate VC (e.g. Google Ventures),Closed,High,479
+Series C+,"Tier 1 (e.g. Sequoia, a16z)",IPO,Low,480
+Series C+,Bootstrapped,Closed,,481
+Post-IPO,Bootstrapped,Closed,Medium,482
+Post-IPO,Corporate VC (e.g. Google Ventures),Closed,Medium,483
+Series C+,Bootstrapped,Acquired (Fire Sale),,484
+Pre-IPO,Tier 3 (Angel/Seed),IPO,,485
+Series C+,Tier 3 (Angel/Seed),IPO,Medium,486
+Series C+,Tier 3 (Angel/Seed),Acquired (Fire Sale),Low,487
+Pre-IPO,Tier 2 (Mid-size VC),Acquired (Fire Sale),High,488
+Series C+,Tier 3 (Angel/Seed),IPO,Low,489
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),High,490
+Series C+,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),High,491
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,Medium,492
+Pre-IPO,Tier 3 (Angel/Seed),Acquired,,493
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired,Medium,494
+Series A,Corporate VC (e.g. Google Ventures),IPO,Low,495
+Pre-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),,496
+Series A,"Tier 1 (e.g. Sequoia, a16z)",IPO,Medium,497
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,Low,498
+Series A,Bootstrapped,Acquired,,499
+Post-IPO,Tier 3 (Angel/Seed),Acquired,,500
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,Medium,501
+Pre-IPO,Tier 2 (Mid-size VC),IPO,High,502
+Pre-IPO,Corporate VC (e.g. Google Ventures),Closed,Low,503
+Series C+,Bootstrapped,Acquired,,504
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",Acquired,,505
+Series B,Bootstrapped,IPO,,506
+Series B,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),,507
+Series B,Bootstrapped,IPO,High,508
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",Closed,Low,509
+Seed,Bootstrapped,Acquired (Fire Sale),Low,510
+Series A,Tier 2 (Mid-size VC),IPO,,511
+Series C+,Bootstrapped,Acquired (Fire Sale),High,512
+Seed,Corporate VC (e.g. Google Ventures),IPO,Medium,513
+Pre-IPO,Corporate VC (e.g. Google Ventures),IPO,,514
+Series B,Bootstrapped,Acquired (Fire Sale),High,515
+Pre-IPO,Bootstrapped,Acquired,High,516
+Post-IPO,Bootstrapped,Independent,,517
+Series B,Corporate VC (e.g. Google Ventures),IPO,,518
+Post-IPO,Corporate VC (e.g. Google Ventures),IPO,Medium,519
+Series A,Bootstrapped,IPO,,520
+Post-IPO,"Tier 1 (e.g. Sequoia, a16z)",IPO,High,521
+Series B,"Tier 1 (e.g. Sequoia, a16z)",Closed,,522
+Series C+,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),,523
+Post-IPO,Bootstrapped,Closed,,524
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired,Low,525
+Seed,"Tier 1 (e.g. Sequoia, a16z)",IPO,,526
+Series B,Tier 2 (Mid-size VC),Acquired (Fire Sale),,527
+Post-IPO,Bootstrapped,Closed,Low,528
+Series C+,Tier 2 (Mid-size VC),IPO,Low,529
+Series C+,Corporate VC (e.g. Google Ventures),IPO,Medium,530
+Post-IPO,Tier 2 (Mid-size VC),IPO,Medium,531
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),High,532
+Pre-IPO,Bootstrapped,Acquired,Low,533
+Series A,Bootstrapped,IPO,Low,534
+Series A,Bootstrapped,Closed,,535
+Post-IPO,Corporate VC (e.g. Google Ventures),Closed,,536
+Post-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),,537
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Low,538
+Post-IPO,Tier 3 (Angel/Seed),IPO,,539
+Series C+,Bootstrapped,Acquired (Fire Sale),Low,540
+Pre-IPO,Corporate VC (e.g. Google Ventures),Acquired,,541
+Series B,Bootstrapped,Acquired,,542
+Pre-IPO,Tier 2 (Mid-size VC),IPO,Medium,543
+Post-IPO,Corporate VC (e.g. Google Ventures),IPO,Low,544
+Pre-IPO,"Tier 1 (e.g. Sequoia, a16z)",IPO,High,545
+Post-IPO,Bootstrapped,Acquired,Medium,546
+Post-IPO,Bootstrapped,Acquired,Low,547
+Series B,"Tier 1 (e.g. Sequoia, a16z)",IPO,Low,548
+Post-IPO,Tier 3 (Angel/Seed),Acquired (Fire Sale),Low,549
+Post-IPO,Corporate VC (e.g. Google Ventures),Acquired (Fire Sale),Low,550
+Post-IPO,Tier 2 (Mid-size VC),Acquired (Fire Sale),Low,551
